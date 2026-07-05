@@ -245,7 +245,7 @@ Commercial use is strictly forbidden
 
 - **Original Author**: Christian Habermann (GALer)
 - **Port Author**: Alessandro Zummo
-- **Support Page**: http://www.towertech.it/azummo/
+- **Support Page**: http://www.towertech.it/azummo/ (no longer works)
 - **Repository**: [GALasm on GitHub](https://github.com/daveho/GALasm)
 
 ## Credits
@@ -253,3 +253,7 @@ Commercial use is strictly forbidden
 - **GALer**: Original GAL assembler for Amiga (Christian Habermann)
 - **GALasm**: ANSI-C port for cross-platform compatibility (Alessandro Zummo)
 - **GCC**: Free C compiler used for compilation
+
+# Links
+
+https://www.jedec.org/
